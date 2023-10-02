@@ -1,2 +1,2 @@
-# Cousera
+# Coursera 
 Coursera
